@@ -1,0 +1,139 @@
+:root
+{
+background-color: white;
+
+height: 100%;
+width: 100%;
+}
+
+
+
+header
+{
+    font-size: 40px;
+    margin-bottom: 50px;
+    text-align: center;
+   
+
+}
+li
+{
+margin: 20px;
+
+min-height: 30px;
+height: fit-content;
+width: fit-content;
+min-width: 200px;
+border-radius: 10px;
+}
+
+.Wprowadzanie
+{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+
+.container {
+    display: flex;
+   
+    justify-content: center;
+    align-items: center;
+  }
+  
+
+.content
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:aqua;
+  width: 90%;
+  border-radius: 20px;
+  
+
+}
+
+.input-section
+{
+padding: 20px;
+}
+
+.input-project
+{
+margin-bottom: 20px;
+  
+}
+
+.input-task
+{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+  .project-view {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    margin-right: 200px;
+    
+  }
+  
+.projects
+{
+background-color: aqua;
+height: fit-content;
+min-width: 300px;
+width: fit-content;
+border-radius: 20px;
+position: flex;
+
+margin-left: 0px;
+margin-right: 10px;
+
+}
+
+  .projects li
+  {
+background-color: aquamarine;
+text-align: center;
+
+  }
+
+  .projects li:hover
+  {
+background-color: aqua;
+    
+  }
+
+  .project 
+  {
+    background-color: aquamarine;
+    font-size: 20px;
+    text-align: center;
+   word-wrap: break-word;
+   border-radius: 20px;
+   width: 400px;
+  }
+
+ button
+ {
+background-color: aquamarine;
+border-radius: 20px;
+ }
+
+
+ button usun
+ {
+
+width: 300px;
+
+ }
+
+ 
